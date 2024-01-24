@@ -14,7 +14,7 @@ aliases:
 
 ## 1 Introduction
 
-Mendix Studio Pro is a tool for creating, viewing, and editing your Mendix applications.
+Mendix Studio Pro is a tool for creating, viewing, and editing your Mendix applications. You can run Studio Pro both on Windows and macOS
 
 One Studio Pro instance can have only one app open at a time, but you can open two Studio Pro instances when necessary.
 
